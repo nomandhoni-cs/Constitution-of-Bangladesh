@@ -1,6 +1,7 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
+  "index": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান",
+  "FirstSection": "প্রথম ভাগ",
+  "SecondSection": "দ্বিতীয় ভাগ",
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
@@ -9,7 +10,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/nomandhoni",
     "newWindow": true
   }
 }
